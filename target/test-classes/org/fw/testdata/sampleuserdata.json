@@ -1,0 +1,66 @@
+{
+  "results": [
+    {
+      "gender": "male",
+      "name": {
+        "title": "Monsieur",
+        "first": "Kilian",
+        "last": "Guerin"
+      },
+      "location": {
+        "street": {
+          "number": 4224,
+          "name": "Rue Abel-Hovelacque"
+        },
+        "city": "Benken (Sg)",
+        "state": "Zürich",
+        "country": "Switzerland",
+        "postcode": 2454,
+        "coordinates": {
+          "latitude": "-63.7118",
+          "longitude": "-47.6795"
+        },
+        "timezone": {
+          "offset": "0:00",
+          "description": "Western Europe Time, London, Lisbon, Casablanca"
+        }
+      },
+      "email": "kilian.guerin@example.com",
+      "login": {
+        "uuid": "867651fe-f0e8-45c2-94b0-ecca2a59714f",
+        "username": "sadbear922",
+        "password": "dakota",
+        "salt": "0a6IuVkJ",
+        "md5": "1b9879e7f86cd03928302de1936705d1",
+        "sha1": "deec6bafee86eeaeffd0f6eaf2b2d33c30a8aed8",
+        "sha256": "4f12829055e14c0d82c9f54070869a884e96009351e68504fa52d4b82532495d"
+      },
+      "dob": {
+        "date": "1990-04-10T02:19:25.205Z",
+        "age": 32
+      },
+      "registered": {
+        "date": "2017-05-28T21:33:50.937Z",
+        "age": 5
+      },
+      "phone": "078 354 02 93",
+      "cell": "077 002 67 40",
+      "id": {
+        "name": "AVS",
+        "value": "756.6467.4001.28"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/62.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/62.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/62.jpg"
+      },
+      "nat": "CH"
+    }
+  ],
+  "info": {
+    "seed": "3f047242a94f37c6",
+    "results": 1,
+    "page": 1,
+    "version": "1.4"
+  }
+}
